@@ -1,0 +1,262 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = OZN HEALTH
+
+## Skin
+
+### Button
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = Lista de Setores
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = Lista de Setores
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.pressedLabel = Lista de Setores
+Button_5AB84F7B_40D3_00DE_4195_429283488EB1.label = Engenharia Clínica
+Button_5AB84F7B_40D3_00DE_4195_429283488EB1.pressedLabel = Reception
+Button_5AB84F7B_40D3_00DE_4195_429283488EB1_mobile.label = Engenharia Clínica
+Button_5AB84F7B_40D3_00DE_4195_429283488EB1_mobile.pressedLabel = Reception
+Button_5AB85F7B_40D3_00DE_41A0_52785BEFA815.label = Almoxarifado
+Button_5AB85F7B_40D3_00DE_41A0_52785BEFA815_mobile.label = Almoxarifado
+Button_5AB86F7A_40D3_00DE_41BD_D1B9EFCA70D1.label = Imagem Aérea
+Button_5AB86F7A_40D3_00DE_41BD_D1B9EFCA70D1_mobile.label = Imagem Aérea
+Button_5AB87F7A_40D3_00DE_41AA_215C597649E9.label = Administração OZN Healt
+Button_5AB87F7A_40D3_00DE_41AA_215C597649E9_mobile.label = Administração OZN Healt
+Button_5AB88F7B_40D3_00DE_41BD_3AF4ED80C40D.label = Nutrição e Dietética
+Button_5AB88F7B_40D3_00DE_41BD_3AF4ED80C40D_mobile.label = Nutrição e Dietética
+Button_5AB89F7B_40D3_00DE_41CB_5B6BD4AD03BA.label = Centro de Reabilitação e Fisioterapia
+Button_5AB89F7B_40D3_00DE_41CB_5B6BD4AD03BA_mobile.label = Centro de Reabilitação e Fisioterapia
+Button_5AB8AF7B_40D3_00DE_41CD_E4BAA6CA3ED1.label = Reabilitaçao de Funcionários
+Button_5AB8AF7B_40D3_00DE_41CD_E4BAA6CA3ED1_mobile.label = Reabilitaçao de Funcionários
+Button_5AB8BF7B_40D3_00DE_41C1_48C8A4A660AA.label = Centro de Controle e Operações
+Button_5AB8BF7B_40D3_00DE_41C1_48C8A4A660AA_mobile.label = Centro de Controle e Operações
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410.label = Planta Baixa
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410_mobile.label = Planta Baixa
+Button_5C1EA374_4F3B_D707_41BE_00FEEB6D514B.label = Abrir Planta
+Button_5C1EA374_4F3B_D707_41BE_00FEEB6D514B_mobile.label = Abrir Planta
+Button_6ECE1198_4F7D_CE0F_41D1_D607B97BA20A.label = LOREM IPSUM
+Button_6ECE1198_4F7D_CE0F_41D1_D607B97BA20A_mobile.label = LOREM IPSUM
+Button_7283495C_681E_5794_4191_166310ABB590.label = Recepção Atrium
+Button_7283495C_681E_5794_4191_166310ABB590_mobile.label = Recepção Atrium
+Button_72911819_681E_559C_417E_4D675FE32C76.label = Recepção administrativa
+Button_72911819_681E_559C_417E_4D675FE32C76_mobile.label = Recepção administrativa
+Button_72912F97_686A_CA94_41C2_E1E3C844F5CC.label = Heliponto
+Button_72912F97_686A_CA94_41C2_E1E3C844F5CC_mobile.label = Heliponto
+Button_729B0629_681E_5DBC_41B4_E7CE9D4508BF.label = Estação de Tratamento de Efluentes
+Button_729B0629_681E_5DBC_41B4_E7CE9D4508BF_mobile.label = Estação de Tratamento de Efluentes
+Button_72D40111_681E_576F_41D7_D2BDEC3A1DCD.label = Gases Geradores
+Button_72D40111_681E_576F_41D7_D2BDEC3A1DCD_mobile.label = Gases Geradores
+Button_72E82D3D_686A_CF94_415F_877B7392868A.label = Centro Cirúrgico
+Button_72E82D3D_686A_CF94_415F_877B7392868A_mobile.label = Centro Cirúrgico
+Button_72ED33CD_681E_5AF4_41D0_FCD89254A748.label = Serviço de Apoio Diagnóstico e Terapêutico
+Button_72ED33CD_681E_5AF4_41D0_FCD89254A748_mobile.label = Serviço de Apoio Diagnóstico e Terapêutico
+Button_72F099E4_686A_D6B4_41C7_7ED26C00ED6E.label = Centro de Material Esterilizado
+Button_72F099E4_686A_D6B4_41C7_7ED26C00ED6E_mobile.label = Centro de Material Esterilizado
+Button_73AD9179_681A_579F_41CC_4AE9A84ECA0A.label = Recepçao Ambulatório
+Button_73AD9179_681A_579F_41CC_4AE9A84ECA0A_mobile.label = Recepçao Ambulatório
+Button_744574B1_681A_5EAF_41D9_26D64D312785.label = Snoppy - Nós cuidamos de nossos cães
+Button_744574B1_681A_5EAF_41D9_26D64D312785_mobile.label = Snoppy - Nós cuidamos de nossos cães
+Button_74591346_681A_5BF5_41D1_9F77556652D1.label = Verde Vida - Jardim Terapêutico
+Button_74591346_681A_5BF5_41D1_9F77556652D1_mobile.label = Verde Vida - Jardim Terapêutico
+Button_74717620_681A_5DAD_41D5_8D5AB0329E4E.label = Lava Car
+Button_74717620_681A_5DAD_41D5_8D5AB0329E4E_mobile.label = Lava Car
+
+### Multiline Text
+HTMLText_17528AC5_57D1_805F_41CC_502F9EE91657.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.359999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.36vmin;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.2200000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.22vmin;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.67vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.080000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.08vmin;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.080000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.08vmin;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.080000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.08vmin;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.69vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.69vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.69vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_17528AC5_57D1_805F_41CC_502F9EE91657_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.359999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.36vmin;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.2200000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.22vmin;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.67vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.080000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.08vmin;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.080000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.08vmin;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.080000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.08vmin;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.69vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.69vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.69vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_1752BAC5_57D1_805F_41C3_4D3FE0C946A5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.359999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.36vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.839999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.84vh;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.839999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.84vh;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_1752BAC5_57D1_805F_41C3_4D3FE0C946A5_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.359999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.36vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.839999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.84vh;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.839999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.84vh;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6ECE2198_4F7D_CE0F_41C1_6D512C0D0B76.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.06vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.06vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.860000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.86vmin;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.860000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.86vmin;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.2200000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.22vmin;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.69vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.2200000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.22vmin;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.2200000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.22vmin;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.500000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vmin;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_6ECE2198_4F7D_CE0F_41C1_6D512C0D0B76_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.06vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.06vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.860000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.86vmin;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.860000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.86vmin;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.2200000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.22vmin;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.69vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.2200000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.22vmin;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.22vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.2200000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.22vmin;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.500000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vmin;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+map_7F7E88C0_687A_B6ED_41BC_C2BA9304B89E.label = 0001
+panorama_0183CBD9_35D9_8A12_4185_1636D5191E8D.label = FOTO_2074
+panorama_018574FC_35D8_BE12_41B0_CA56D13F8534.label = FOTO_2073
+panorama_018FF011_35D8_F612_41C3_EAF6ACFFAF0D.label = FOTO_2062
+panorama_01977770_35D9_9A12_41B8_D94A071019F9.label = FOTO_2076
+panorama_01992237_35D9_9A1F_41B8_6C6DB9EBFCA7.label = FOTO_2075
+panorama_01A6C34E_35D8_BA0E_41A9_0F29D5D2291D.label = FOTO_2078
+panorama_01AF5D6A_35D9_8E31_41A7_0F396F78553E.label = FOTO_2077
+panorama_01D3A08F_35DF_960F_41B4_B88DA56BD285.label = FOTO_2060
+panorama_0269E6B6_3558_7A11_41B3_E124EC57C225.label = entrada cc
+panorama_02715956_35D8_9611_41BE_E01AEEE99279.label = FOTO_2061
+panorama_02F1ED15_3539_8E12_41B7_3687C4C0A7DA.label = FOTO_2191
+panorama_0422B2D9_3537_9A13_4189_1B83ED79ABF8.label = FOTO_2211
+panorama_042B87F3_3538_FA16_41C5_D65DFE2CEF06.label = FOTO_2206
+panorama_042D32F9_3538_BA13_41C8_E29AF7231157.label = FOTO_2195
+panorama_043498E2_3539_9631_41C2_F1E898BE1DAA.label = FOTO_2193
+panorama_04352E36_3539_8A1E_41C2_B21B83A443C9.label = FOTO_2194
+panorama_060A4CED_354F_8E33_4193_6510AAAED1F9.label = NOVA SRPA 2
+panorama_060F41C5_354F_F672_41BF_FEF02D119D61.label = NOVA SRPA 3
+panorama_06D4F580_3548_9EF2_41C7_20A9E107725F.label = NOVA SRPA 1
+panorama_079314D1_3548_7E12_41AA_CEA118640E95.label = FOTO_2152
+panorama_0D03BE0D_35F8_8DF2_41AD_03A7E57FE21C.label = FOTO_2036
+panorama_0D14C56A_35F8_FE31_41B6_EEF487616A3F.label = FOTO_2035
+panorama_0D8393A7_35F9_9A3F_41B6_E972C6E3B179.label = FOTO_2016
+panorama_0D8B1B13_35F9_8A16_41BC_D62A23CDF2E3.label = FOTO_2015
+panorama_0D939478_35F8_BE11_41BF_4CE449B862C0.label = FOTO_2013
+panorama_0D9DBD1A_35F8_8E17_41B4_086909C47868.label = FOTO_2012
+panorama_0DA7CB46_35F7_8A71_41BB_B43BA6E916E0.label = FOTO_2009
+panorama_0DAF1B31_35F8_8A13_41B0_A0390C0E5466.label = FOTO_2020
+panorama_0DB7A3B9_35F8_7A13_41C7_318C3F8C9C07.label = FOTO_2019
+panorama_0DBA4B2C_35F9_8A32_41C6_1D90EBFF151C.label = FOTO_2018
+panorama_0DCF02D4_35FB_BA12_41C5_A4FC8FAB2357.label = FOTO_2025
+panorama_0DD5FACB_35F8_8A77_41B8_8B06539530C7.label = FOTO_2024
+panorama_0DD982F3_35F8_9A16_41C0_C0BE8549D31E.label = FOTO_2023
+panorama_0DEEEC53_35F8_8E16_41C9_AE483F4287D9.label = FOTO_2033
+panorama_0DF3830B_35FB_9BF6_41B3_22281D4E19F7.label = FOTO_2031
+panorama_0DF90BA7_35FB_8A3F_41CA_4B864F73C0D2.label = FOTO_2029
+panorama_0E666656_35F8_9A1E_419F_EEC45A2DC35D.label = FOTO_2010
+panorama_101BC061_36DB_B632_41B2_70FE1D769362.label = FOTO_2096
+panorama_1035C8EB_36C8_9636_41B0_7175FD356A04.label = FOTO_2213
+panorama_124FA88C_3757_96F1_41C3_C5DFF3D6C079.label = CCO01
+panorama_12809550_36D8_9E12_41B9_85F51B933BF9.label = FOTO_2098
+panorama_12812102_36D8_97F1_41A3_369FDA4087E9.label = FOTO_2105
+panorama_1283006D_36D8_9633_41C2_B5AF7922CBBC.label = FOTO_2104
+panorama_1284E4D7_3739_9E1F_41C1_3C338955447B.label = FOTO_1991
+panorama_12874C2C_36D8_8E32_41C0_F8CDF5B87F8C.label = FOTO_2106
+panorama_128B4DDF_36D8_8E0F_41B7_1219967C1204.label = FOTO_2099
+panorama_128DCC02_36D9_8DF6_41C0_888479A3F401.label = FOTO_2103
+panorama_128E4203_36D9_95F6_41C1_38D75184940E.label = FOTO_2102
+panorama_128E6699_36D8_7A13_41BC_47E06A30C17C.label = FOTO_2100
+panorama_12915806_36DB_95FE_41C9_67551B7C935D.label = FOTO_2130
+panorama_1292D74E_36DB_9A0E_41B1_42B4DF3BF809.label = FOTO_2132-2
+panorama_12948852_36D8_9611_41C2_7414012E26E7.label = FOTO_2125-2
+panorama_12955620_36D8_7A32_41B2_D960D3410BAC.label = FOTO_2124-2
+panorama_12971251_36D8_BA13_41AD_6A685808B736.label = FOTO_2128
+panorama_1298E889_36D8_76F2_41C8_2D5335AA7D4F.label = FOTO_2111
+panorama_129A4012_36D9_F616_4192_57A5E0264184.label = FOTO_2113
+panorama_129BF1B8_36DF_9611_41B1_B36A64061355.label = FOTO_2107
+panorama_129CE58B_36D8_7EF6_41C2_847AED23F8F3.label = FOTO_2109
+panorama_129F035E_36D8_9A11_4190_B440D0250DFC.label = FOTO_2110
+panorama_12EED3B6_36D8_7A11_41C5_79B508ABBBD6.label = FOTO_2134-2
+panorama_1378F23C_36FB_BA12_41C6_B088C12D0A74.label = FOTO_2139-2
+panorama_1452E5B5_36F8_FE13_41C5_1B68B648F460.label = FOTO_2142-2
+panorama_145F9555_36F8_9E12_4193_74A4691E3015.label = FOTO_2141-2
+panorama_14E65294_36C8_BA11_4199_DB8D667D5B7C.label = FOTO_2217
+panorama_15175A93_3748_8A16_4192_2E3A347149BF.label = COZ01
+panorama_16968FFC_36C8_8A12_4199_DAB9249D1F98.label = FOTO_2007
+panorama_1696ADFA_36C8_8E16_41BA_D8B3336C8689.label = FOTO_2039
+panorama_1697C132_36C9_B611_41A4_D085B3530870.label = FOTO_2040
+panorama_1699C594_36C9_FE12_41BF_77A86B8BDEC5.label = FOTO_2041
+panorama_169ADF7C_36C8_8A12_41C0_30A89BF9EB95.label = FOTO_2044
+panorama_169AFB3A_36C9_8A11_41B4_AA1650DE365E.label = FOTO_2042
+panorama_169D436A_36C8_9A31_41CB_3F027258D46D.label = FOTO_2046
+panorama_169E1D9A_36C8_8E16_41C8_E49D4B4B4247.label = FOTO_2047
+panorama_16B91FC0_3738_8A72_41B7_EE161E998B3A.label = FOTO_1949
+panorama_174620CB_374B_9677_41BD_50444B97F4F5.label = FOTO_2093
+panorama_176B3D82_3737_8EF6_41B3_189C1E6BDC1E.label = FOTO_2006
+panorama_176FB158_3737_9612_41C6_6561ABB91878.label = FOTO_2004
+panorama_1770BD25_3737_8E33_41BA_DC7AAEC30F87.label = FOTO_2001
+panorama_17734A1F_3738_8A0E_41BF_56DF84AD1B33.label = FOTO_1998
+panorama_177414E0_3738_FE31_41C8_4EC65DECD767.label = FOTO_1996
+panorama_17752101_3738_B7F2_41AA_D9E5883CD4D8.label = FOTO_1995
+panorama_17755BA2_3739_8A31_419C_2E0D83237366.label = FOTO_1993
+panorama_180469B6_3549_9611_41A5_BA5620E7423F.label = FOTO_2160
+panorama_1806EF14_3548_8A12_41C7_3C82486ED54D.label = FOTO_2161
+panorama_180B903F_354B_960E_41C1_2F04C020FCA3.label = FOTO_2165
+panorama_18111C3B_354B_8E16_41BC_2AB0F1D619C0.label = FOTO_2171-2
+panorama_1814F5CD_354B_9E73_41A7_31EAAEE37DFE.label = FOTO_2166
+panorama_1838ACB6_3549_8E11_41C0_7F13D77911CC.label = FOTO_2155
+panorama_18399262_3549_9A36_41B2_33419FC84932.label = FOTO_2158
+panorama_19E0641E_354B_BE0E_41A7_E7274E5A25B2.label = FOTO_2048
+panorama_1A02D5A9_354B_9E32_4196_9DB36323972B.label = FOTO_2049
+panorama_1A08F5D7_3548_FE1F_41C0_09859FFA7628.label = FOTO_2055
+panorama_1A0D6FBF_3548_8A0E_416E_6A22573CE5EA.label = FOTO_2054
+panorama_1A0DDB4B_354B_8A77_41C7_CB98C0609F92.label = FOTO_2052
+panorama_1A337676_3549_9A11_41A7_0AA9C4C21708.label = FOTO_2059
+panorama_1A343007_3548_95FE_41C2_EE04C32EF3A5.label = FOTO_2057
+panorama_1ED9DDAD_3548_8E32_41A7_EA9BFFEFF9DA.label = FOTO_2146
+panorama_1EDBDEB8_354F_8A12_41C2_CC3064E381FA.label = FOTO_2144
+panorama_1EDE3424_3548_BE31_41A7_D7AD282D700C.label = FOTO_2145
+panorama_1EE627AC_3548_9A32_41C6_3C6E4D7A5F5D.label = FOTO_2147
+panorama_1EEA2A00_3549_B5F1_41B6_749BF4D13090.label = FOTO_2151
+panorama_1EF60175_3549_9612_41C1_5DA3C28CC497.label = LAB01
+panorama_285222C8_37C9_FA72_41BF_2AA04B1106C0.label = FOTO_1941
+panorama_2880260E_37C9_BDF1_41B2_EE73E7A0818F.label = FOTO_1943-2
+panorama_28811902_37C8_77F7_41B1_89C0A3EC10A7.label = FOTO_1946
+panorama_28817B10_37C8_8A11_41AD_1FC0DC15C508.label = FOTO_1947
+panorama_28817DC4_37C8_8E72_41C5_0CF184B7D8FB.label = FOTO_1948
+panorama_2941A449_3748_9E72_41BB_F8D0E8616464.label = FOTO_2095
+panorama_29486D2F_3757_8E0D_41A0_BBCDF09D5B47.label = FOTO_1969
+panorama_294FF280_3757_BAF2_41B4_CE89ADCD482A.label = FOTO_1972
+panorama_295009A4_3749_9631_41CA_474FBDAEDCFF.label = FOTO_1980-2
+panorama_29504AD5_3748_8A12_41BB_A274B100F500.label = FOTO_1975
+panorama_2950509B_3749_B617_41B0_88D300FCB8B6.label = FOTO_1983-2
+panorama_29507692_3748_7A11_41C3_09F1E8D593C3.label = FOTO_1973
+panorama_2950A51D_3748_9E12_41CB_0179A394B0FB.label = FOTO_1979
+panorama_2950DF3A_3748_8A11_41C4_BC492937A4ED.label = FOTO_1977
+panorama_2950ECED_3749_8E32_41C8_C45D0D786995.label = FOTO_1981
+panorama_29511CC6_3748_8E7E_41C5_9CC511690DDA.label = FOTO_1988
+panorama_29519510_3748_7E12_419D_8831CFD5D3FC.label = FOTO_1984
+panorama_2951F053_3748_9617_41C9_60DC685D2C2B.label = FOTO_2081
+panorama_2951F3A6_374B_9A3E_41A0_1BBDA81F3D58.label = FOTO_2082
+panorama_2951F8F0_3748_B611_41C9_FFD58BCEB2C8.label = FOTO_1986
+panorama_29F18E77_3738_8A1E_41AD_F83B1F37D500.label = FOTO_1956
+panorama_29F23841_3738_9673_41B4_40E20FC57FD7.label = FOTO_1955-2
+panorama_29F284C0_3739_BE71_41BE_A4AEE7AC61CC.label = FOTO_1957
+panorama_29F2B192_3739_9616_41C5_F09BE1FCC081.label = FOTO_1961
+panorama_29F2CBC0_3739_8A72_41A8_D7E87FE8B988.label = FOTO_1960
+panorama_29F300F4_373B_9612_41BF_A95C36183F82.label = FOTO_1965
+panorama_29F30A88_3738_8AF1_41C8_93E62CE82314.label = FOTO_1962
+panorama_29F330DF_3738_F60E_41B9_DCA37F1C0FA6.label = FOTO_1963
+panorama_29F348B8_3738_B611_41BD_0164A189D550.label = FOTO_1964
+panorama_29F3C8DD_373B_9613_4130_088306A73D46.label = FOTO_1967
+panorama_2A68581E_3738_960E_41C3_F2CC051C158D.label = FOTO_1902
+panorama_2D704A35_373B_8A12_41C5_75E85DC2F6E7.label = FOTO_1903
+panorama_2D719A5E_373B_8A11_41C8_87EEFE2E4460.label = FOTO_1905
+panorama_2D7271EA_3738_9631_41BC_F30D8EDA28A0.label = FOTO_1909
+panorama_2D72CD07_3737_8FFE_41B3_2DE86BED499A.label = FOTO_1927
+panorama_2D72EA22_3739_8A36_41B8_4A4D699CF5BE.label = FOTO_1912
+panorama_2D739838_3738_B612_419C_0881191DCAE1.label = FOTO_1916
+panorama_2D73DDC3_3737_8E77_41C6_9C2EC9A038E9.label = FOTO_1926
+panorama_2D74308F_3738_760F_41C6_5C4DB4F815A7.label = FOTO_1925
+panorama_2D74E4BF_3738_9E0E_41BE_F2A138E393B6.label = FOTO_1924
+panorama_2D753E72_3739_8A16_41C8_6AB832523F55.label = FOTO_1911
+panorama_2D7568C1_3739_9673_4166_8A62D66E639E.label = FOTO_1913
+panorama_2D75D6E1_3738_FA32_41BF_F8545952195D.label = FOTO_1908
+panorama_2D75D833_3738_9616_41C4_5CA200CBFCC9.label = FOTO_1906
+panorama_2D8C35B3_37C8_FE17_41AE_3D63930EACF4.label = FOTO_1939
+panorama_2D8CDAA9_37C8_8A33_41C8_9F10D9F27E69.label = FOTO_1928
+panorama_72D61F3C_35CB_8A11_41B1_B8B8C9D65A0D.label = FOTO_2083
+panorama_733FD101_3539_F7F2_41C8_DE7BA87F2A17.label = PANORAMICADELPHINA
+panorama_7541A77C_35C8_9A11_419C_813594C93662.label = FOTO_2090
+panorama_75455B76_35CB_8A1E_419E_001E90C4844A.label = FOTO_2084
+panorama_7559C591_35C9_9E13_41B9_22BC3E53849B.label = SADTIMA07
+photo_1BB91C27_3558_8E3F_41C8_5C484746E380.label = WhatsApp Image 2021-11-19 at 04.17.22 (1)
+video_125A5180_36C8_96F2_41A6_CC6FCBB8C3E8.label = Video Aereo Delphina
+video_72F8B360_35C8_9A32_41BC_EEFDC444D1E3.label = Video tomografia Delphina
+
+## Popup
+
+### Body
+htmlText_15A13067_36C9_F63F_41C5_049B3BB08A85.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A unidade de lavanderia hospitalar atua na coleta, pesagem, separação, reparos, lavagem, secagem, acondicionamento e distribuição dos itens de hotelaria (roupas, privativas, lençóis) em condições adequadas de uso, higiene, quantidade, qualidade e conservação a todas as unidades do serviço hospitalar. </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Você sabia: A Lavanderia Interna Hospitalar tem capacidade de lavagem, passadoria e hotelaria mensal de 90 toneladas, com a execução do serviço realizada 100% nas dependências da unidade e, ainda capacidade de atendimento para demandas externas.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_16039AFD_3759_8A13_41B0_7D21428AE6FE.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">O <B>Serviço de Nutrição e Dietética (SND)</B> tem como objetivo garantir uma alimentação de qualidade ao paciente, usando a terapia nutricional como apoio ao tratamento. Da mesma forma, o SND oferece uma alimentação nutricionalmente equilibrada aos acompanhantes de pacientes e colaboradores do Hospital, sempre de acordo com as normas de segurança higiênico-sanitárias.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Você sabia?</B> O Hospital Delphina Aziz possui um refeitório com capacidade para atender 300 pessoas e capacidade para fornecer 60.000 refeições mensais.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_165D7026_37C8_963E_41CA_1706AD2DE90D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">O setor de<B> Engenharia Clínica</B> é responsável por realizar a <B>manutenção preventiva e corretiva</B> de equipamentos, dispositivos, sistemas e outras tecnologias biomédicas, <B>além de promover o planejamento tecnológico de todos os equipamentos e realizar o plano de contingência de equipamentos de suporte à vida</B>. O serviço está disponível 24 horas por dia todos os dias, garantindo o funcionamento ininterrupto de recursos hospitalares.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Você sabia?</B> O planejamento e execução das manutenções nos equipamentos e alterações na disposição de áreas de um hospital são realizados com base em parâmetros rigorosas para manter a segurança dos pacientes. No Hospital Delphina Aziz, um exemplo são as calibrações regulares de  ventiladores, mantendo o material pronto para o atendimento, em especial durante a pandemia do novo Coronavírus.</SPAN></DIV></BODY></HTML></div>
+htmlText_166FFC57_374F_8E1E_41BA_3CEA620A12CD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Sistema de Circuito Fechado de TV (CFTV) em todo o hospital, além de aplicação de revista em 100% dos funcionários, manutenção de postos armados, vigilância efetiva em rondas externas constantes e em rondas internas com plantonistas. Todo o serviço é monitorado também dentro do Centro de Controle e Operações nas dependências do Hospital Delphina Aziz.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Você sabia?</B></SPAN></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A OZN Health promoveu a instalação do Centro de Controle e Operações nas dependências do Hospital Delphina Aziz para a integração das ações de monitoramento, automação e de prevenção de sinistros na unidade. </SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_16956C52_3738_8E11_41BB_6B40769D2630.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A manutenção predial visa proporcionar serviço que assegure a integridade da estrutura do edifício, dos sistemas de energia, das redes de gases, das redes hidrossanitários, do sistema de hidrantes, de ar-condicionado, de ventilação e exaustão, dos sistemas eletrônicos e das demais instalações ou serviços.</SPAN></DIV></BODY></HTML></div>
+htmlText_16A7715C_37CB_F612_41C2_153DE48C3790.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">São realizados os serviços de revistas, vigilância por câmeras, cancelas eletrônicas externas, catracas eletrônicas nas dependências da unidade e banco de dados de colaboradores e visitantes. </SPAN></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">O serviço garante o atendimento de 70.000 pessoas mensalmente, com o controle de acesso e entradas  independentes para funcionários, ambulatório, Centro de Imagem e Hotelaria.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Você sabia?</SPAN></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A OZN Health promoveu a instalação do Centro de Controle e Operações nas dependências do Hospital Delphina Aziz para a integração das ações de monitoramento, automação e de prevenção de sinistros na unidade. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Arial Baltic';"/></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_16F667C6_3748_9A71_41BC_C969ADE0686A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">O Hospital Delphina Rinaldi Abdel Aziz é o único hospital público do Estado do Amazonas que detém a Licença de Operação Ambiental do Instituto de Proteção Ambiental do Amazonas (IPAAM) e foi o primeiro do Brasil com certificado do Selo Aqua (HQE), primeira norma brasileira em construção sustentável. As certificações garantem aos usuários do estabelecimento e colaboradores um ambiente saudável e seguro em conformidade com os requisitos legais ambientais e de Vigilância Sanitária.</SPAN></DIV></BODY></HTML></div>
+htmlText_1759E153_3749_961A_41C8_4F7FC7F0D245.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A <B>higienização hospitalar</B> consiste na limpeza e desinfecção das superfícies do ambiente hospitalar. A rotina técnica de higienização é praticada em toda a estrutura de mais de 32.000 metros de área construída e 14.000 de área externa. </SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Você sabia?</B> A limpeza hospitalar não se trata de uma limpeza comum, como a que é realizada em nossas casas, por exemplo. Para realizar a limpeza hospitalar de excelência de acordo com os padrões de higiene da unidade de saúde nossas equipes recebem treinamentos para melhoria na atuação e, ainda, para manipulação de produtos especiais. Os cuidados consideram tanto as superfícies quanto os produtos químicos utilizados, por serem específicos para manter os diversos ambientes do hospital sem contaminação, além de proporcionar conforto e segurança para todos os públicos envolvidos.</SPAN></DIV></BODY></HTML></div>
+htmlText_1BA3CDE8_355B_8E31_41C3_4F309DDE8F0C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A Gestão Ambiental do Hospital Delphina Rinald Abdel Aziz tem como responsabilidade principal assegurar a preservação ambiental, trabalhando na prevenção de possíveis consequências negativas relacionadas aos processos de atendimento do hospital, agindo sempre em conformidade com os requisitos legais ambientais e a Vigilância Sanitária.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Atualmente, o Hospital Delphina Rinald Abdel Aziz é o único que detém a Licença de Operação Ambiental do Instituto de Proteção Ambiental do Amazonas (IPAAM) e é certificado com o Selo Aqua - HQE, primeira norma brasileira em construção sustentável, garantindo aos funcionários e usuários do estabelecimento um ambiente saudável e seguro.</SPAN></DIV></BODY></HTML></div>
+htmlText_1E9565FB_3538_BE16_41AF_17756BA597A2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Parte da política de atuação da OZN Health diz respeito à área de responsabilidade social e, nesta esteira, o <B>Hospital Delphina Aziz foi contemplado com um canil</B>, construído em um espaço próximo ao estacionamento do hospital para abrigo de seis cães pelo projeto <B>“Nós Cuidamos dos Nossos Pets”</B>, com a oferta de casinhas individuais, alimentação regular e tratamento veterinário, além de um tanque de areia para lazer dos pets se abrigavam no entorno do hospital.</SPAN></DIV></BODY></HTML></div>
+htmlText_50525CFB_43CD_B412_41CE_0FBAD2999AED.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Nosso compromisso com a excelência da qualidade dos serviços prestados no Hospital Delphina Aziz também passa pelos cuidados com nossos colaboradores e, por este motivo, são realizadas ações permanentes para minimizar e evitar acidentes de trabalho e doenças ocupacionais. </SPAN></DIV></BODY></HTML></div>
+htmlText_6DCFB133_3558_9616_41BD_FB5B582EDD9B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A <B>Central de Material Esterilizado</B> fornece apoio técnico a todas as áreas assistenciais do Hospital, sendo responsável pelo processamento, esterilização, preparo, estocagem e distribuição de material a todos os setores da unidade. </SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Você sabia?</B> A descontaminação e esterilização de materiais dentro de um hospital pode salvar vidas, pois promove não apenas a remoção de sujeira, mas também a total eliminação de todos os micro-organismos presentes em instrumentos cirúrgicos, equipamentos, produtos e utensílios médicos–laboratoriais para uso no atendimento aos pacientes, tais como caixas para cirurgias, pinças, entre outros.  </SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_4483AFB1_69D5_8F42_41C5_15AA97F785A5.title = Lavanderia Interna Hospitalar
+window_44A6DC04_69D2_B141_41D2_989DD7B51B13.title = OZN Social
+window_45235B69_69D3_F7C2_41AE_4559FD64E03B.title = OZN Sustentabilidade
+window_45964FB6_69CE_8F4E_41BA_E1D13E1D5E35.title = Engenharia Clínica
+window_45D0EC2C_69D2_9142_41D8_3E50B3F78DCD.title = Nutrição e Dietética
+window_465C3483_69DF_B146_41D7_6D5B04ADEDBF.title = Limpeza Hospitalar
+window_52D03E99_4454_741E_41B4_4F5009D0BFB7.title = Vigilância Patrimonial
+window_58A8E8D7_69DF_F2CF_41CA_CCAEA0E8EB51.title = Gestão Ambiental
+window_591B0859_6935_91C2_41BA_4EF87CCFD0DB.title = Manutençao Predial 
+window_59E387DD_6936_FEC2_41D1_AA636DE619FC.title = Recepçao e Portaria
+window_59E674D3_6933_72C6_41D4_3C40B40F4B99.title = Segurança do Trabalho
+window_5ED168E7_695F_92CE_41D5_B974F70F66F3.title = Central de Material Esterelizado
