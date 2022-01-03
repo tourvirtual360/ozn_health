@@ -1,7 +1,7 @@
 {
- "start_url": "index.htm",
  "name": "OZN HEALTH",
- "background_color": "#FFFFFF",
+ "start_url": "index.htm",
+ "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF",
- "display": "fullscreen"
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF"
 }
